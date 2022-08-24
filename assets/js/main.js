@@ -45,7 +45,6 @@ function scrollUp(){
 }
 window.addEventListener('scroll', scrollUp)
 
-
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 const sections = document.querySelectorAll('section[id]')
 
