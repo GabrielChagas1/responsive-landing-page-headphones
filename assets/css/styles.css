@@ -567,6 +567,11 @@ img{
   border-radius: .5rem;
 }
 
+::-webkit-scrollbar-thumb{
+  background-color: var(--scroll-thumb-color);
+  border-radius: .5rem;
+}
+
 
 /*=============== MEDIA QUERIES ===============*/
 /* For small devices */
