@@ -562,6 +562,10 @@ img{
 }
 
 /*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+  width: .60rem;
+  border-radius: .5rem;
+}
 
 
 /*=============== MEDIA QUERIES ===============*/
